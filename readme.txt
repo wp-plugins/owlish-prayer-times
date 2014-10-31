@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Codingowl
 Donate link: http://codingowl.net
-Tags: widget, prayer, religious
+Tags: widget, prayer, religious, muslim, salah, salat
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: 1.0
@@ -12,7 +12,17 @@ Displays prayer times from islamicfinder.org - please note, this plugin needs th
 
 == Description ==
 
-Displays prayer times in a highly customizable way. No iframe used, you can change the look of the prayer times to fit your page. Basic CSS included, so it will adapt to the style of your theme (maybe some modifications needed).
+Displays prayer times in a highly customizable way. No iframes used, you can change the look of the prayer times to fit your page. Basic CSS-file included, so it will adapt to the style of your theme (maybe some modifications needed).
+
+**Usage**
+
+Install the plugin as described in Tab "Installation". Drag the widget to your sidebar and go to islamicfinder Website and add the XML-URL as described in the tutorial.
+
+**Features**
+
+* Highly customizable prayer times possible! You can set the detailled calculation method, your coordinates and much more on the islamicfinder website.
+
+Best, it is all free!
 
 == Installation ==
 
