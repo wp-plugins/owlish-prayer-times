@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Owlish_Prayertimes
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Owlish prayer times
 Plugin URI: http:/codingowl.net/freebies/owlish-prayer-times-wordpress-plugin
 Description: Displays prayer times from islamicfinder.org - This plugin needs the XML-URL created at islamicfinder.org, please refer to the <a href="http:/codingowl.net/freebies/owlish-prayer-times-wordpress-plugin" target="_blank">tutorial</a>. Please note, as the guidelines provided from islamicfinder.org, this plugin adds a link back to islamicfinder.org. This cannot be turned off, since the website does not allow using the prayer times without linking back. After activating, go to Appearance -> Widgets and drag your Owlish prayer times widget to the sidebar.
 Author: codingOwl
-Version: 1.0
+Version: 1.1
 Author URI: http://codingowl.net
 */
 
