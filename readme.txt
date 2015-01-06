@@ -1,14 +1,14 @@
 === Plugin Name ===
 Contributors: Codingowl
 Donate link: http://codingowl.net/donate-wordpress-prayer-times-widget/
-Tags: widget, prayer, religious, muslim, salah, salat
+Tags: widget, prayer, religious, muslim, salah, salat, islamicfinder, prayer-times
 Requires at least: 4.0
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays prayer times from islamicfinder.org - please note, this plugin needs the xml-url created at islamicfinder.org
+Displays prayer times from islamicfinder.org - please note, this plugin needs the xml-url created at islamicfinder website.
 
 == Description ==
 
